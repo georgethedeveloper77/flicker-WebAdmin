@@ -1,0 +1,34 @@
+Admin Panel / src / AppBundle / Form/AdsType.php
+
+
+android app / build.gradle (Project : Application)
+android app / build.gradle (Module : Application.app)
+
+android app / services / CallBackPrice
+android app / services / CallBackCheck
+android app / services / CallBackBilling
+android app / services / BillingSubs
+android app / services / BillingInApp
+android app / services / Billing
+
+android app / ui /activities/SplashActivity.java
+android app / ui / activities/ActorActivity.java
+android app / ui /activities/ActorActivity.java
+android app / ui /activities/MyListActivity.java
+android app / ui /activities/SearchActivity.java
+android app / ui /activities/SerieActivity.java
+android app / ui /activities/TopActivity.java
+android app / ui /activities/MovieActivity.java
+android app / ui /activities/ActorsActivity.java
+android app / ui /activities/ChannelActivity.java
+android app / ui /activities/GenreActivity.java
+
+android app / ui /Adapters/ChannelAdapter.java
+android app / ui /Adapters/PosterAdapter.java
+android app / ui /Adapters/HomeAdapter.java
+android app / se rvices/NotifFirebaseMessagingService.java
+android app / ui /player/CustomPlayerViewModel.java
+
+android app/res/layout/item_max_native_ads.xml
+android app/res/layout/activity_login.xml
+AndroidManifest.xml
